@@ -9,7 +9,7 @@
 
 ### App Walk-though
 
-<img src="Users⁩/pbick⁩/⁨Desktop⁩/CodePath⁩/Flashcards⁩" width=200><br>
+<img src="https://github.com/pbick/Flashcards/blob/master/FlashcardsApp_Walkthrough.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Xcode
